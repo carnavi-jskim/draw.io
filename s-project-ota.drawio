@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T10:59:09.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0uFoyN3Z8EHTd8AlSU_0" version="14.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-13T11:03:18.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mTZdudox9Ot0iu4ac_AK" version="14.8.6" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="5.1 F/W 버전 확인 Topic define">
     <mxGraphModel dx="1426" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U9TsFrNqbL_BJm1C6WAU" name="5.4 F/W 업데이트 Topic define">
-    <mxGraphModel dx="1426" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="xE-kRRZ_xSgWLuXI9ASr-0" />
         <mxCell id="xE-kRRZ_xSgWLuXI9ASr-1" parent="xE-kRRZ_xSgWLuXI9ASr-0" />
