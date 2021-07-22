@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T09:15:06.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="u7RZAJvFdvejK792IJ8F" version="14.9.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-22T23:36:13.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="EJPfhhwHLBLQo2JCKOb5" version="14.9.1" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="5.1 F/W 버전 확인 Topic define">
     <mxGraphModel dx="1426" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           <mxGeometry x="500" y="330" width="240" height="275" as="geometry" />
         </mxCell>
         <mxCell id="qc03G-fVWgIjit9UF_L2-0" value="Response header define&lt;br&gt;- code&lt;br&gt;200 : 정상적으로 f/w upgrade 가 시작되었음.&lt;br&gt;201 : 이미 fwupdate 작업이 진행 중임" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="xE-kRRZ_xSgWLuXI9ASr-1" vertex="1">
-          <mxGeometry x="70" y="660" width="360" height="65" as="geometry" />
+          <mxGeometry x="70" y="660" width="320" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
